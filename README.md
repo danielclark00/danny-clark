@@ -1,9 +1,11 @@
 ![Header Copy](https://github.com/danny-clark/danny-clark/blob/cab98e6bf4c40cae9d153d4f14f846c84e2168de/header%20copy.gif)
+<img src="https://github.com/danny-clark/danny-clark/blob/cab98e6bf4c40cae9d153d4f14f846c84e2168de/header%20copy.gif" width="500" />
+
 ---
 ### Welcome 👋
 
 
-<iframe src="https://giphy.com/embed/7b8jdNUoFBdcoILjjv" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-7b8jdNUoFBdcoILjjv">via GIPHY</a></p>
+<img src="https://giphy.com/embed/7b8jdNUoFBdcoILjjv" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen />
   
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
