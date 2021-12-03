@@ -1,11 +1,8 @@
-![Header Copy](https://github.com/danny-clark/danny-clark/blob/cab98e6bf4c40cae9d153d4f14f846c84e2168de/header%20copy.gif)
-<img src="https://github.com/danny-clark/danny-clark/blob/cab98e6bf4c40cae9d153d4f14f846c84e2168de/header%20copy.gif" width="500" />
+<img src="https://github.com/danny-clark/danny-clark/blob/e34600b6260bc9b71d97b65a0a1dbec7a592edca/header.gif" width="1000" height="250" />
 
 ---
 ### Welcome 👋
 
-
-<img src="https://giphy.com/embed/7b8jdNUoFBdcoILjjv" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen />
   
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -14,7 +11,10 @@
 ---
 GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=danny-clark&show_icons=true&theme=github_dark&hide_title=true" />
+
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=danny-clark&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/danny-clark/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
