@@ -21,13 +21,15 @@
 <h3 align="center"<b> Projects & Interests </b></h3>
 
 
+<p><a><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=A.I&theme=github_dark"  /></a></p>
+  <a><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=Robotics&theme=github_dark" /></a>
 
 
 ---
-GitHub Stats
+<h3 align="center"><b> GitHub Stats </b></h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=danny-clark&show_icons=true&theme=github_dark&hide_title=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=github-readme-stats" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny-clark&layout=compact" />
 
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=danny-clark&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/danny-clark/github-readme-stats)
