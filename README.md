@@ -7,7 +7,7 @@
 ---
 <h3 align="center"><b> Welcome to the journey  👋</b></h3>
 
-<p align="center"> We often feel at a loss to describe ourselves to those who expect a pigeonholed answer. But a singular identity isn’t very interesting, and I’m a bit more multifaceted as a person than that. </p>
+<p align="center"> We often feel at a loss to describe ourselves to those who expect a pigeonholed answer. This often results in an attempt to shrink ourselves down to a singular identity. Instead, aim for a multifaceted approach. </p>
 <p align="center"> We must not let pressure toward specialization interfere with our thirst for knowledge. Instead, learn to manage our behaviors through discipline to nurture our creativity. </p>
 <p align="center"> Through my love of learning, I found it is best to know something by its relation to something else. This, at its essence, can be what makes all the facts amazing! </p>
 <p align="center"> To see these connections, one must understand different areas of knowledge! </p>
@@ -21,8 +21,7 @@
 <h3 align="center"<b> Projects & Interests </b></h3>
 
 
-<p><a><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=A.I&theme=github_dark"  /></a></p>
-  <a><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=Robotics&theme=github_dark" /></a>
+
 
 
 ---
@@ -39,10 +38,25 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=A.I&theme=github_dark" />  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=Robotics&theme=github_dark" /> 
+
+
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 ---
 
 <!--
 **danny-clark/danny-clark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
