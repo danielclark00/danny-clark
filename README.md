@@ -20,9 +20,13 @@
 ---
 <h3 align="center"<b> Projects & Interests </b></h3>
 
+<a href="https://github.com/danny-clark/A.I">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=A.I&theme=github_dark" />
+</a>
 
-
-
+<a href="https://github.com/danny-clark/Robotics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=Robotics&theme=github_dark" />
+</a>
 
 ---
 <h3 align="center"><b> GitHub Stats </b></h3>
