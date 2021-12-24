@@ -28,31 +28,31 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=Robotics&theme=github_dark" />
 </a>
 
+<a href="https://github.com/danny-clark/Blockchain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=Blockchain&theme=github_dark" />
+</a>
+
+<a href="https://github.com/danny-clark/Neuromorphic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=Neuromorphic&theme=github_dark" />
+</a>
+
+<a href="https://github.com/danny-clark/Unreal-Engine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=Unreal-Engine&theme=github_dark" />
+</a>
+
+<a href="https://github.com/danny-clark/Quantum-Computing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=Quantum-Computing&theme=github_dark" />
+</a>
+
 ---
 <h3 align="center"><b> GitHub Stats </b></h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=danny-clark&show_icons=true&theme=github_dark&hide_title=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny-clark&layout=compact" />
-
-[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=danny-clark&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/danny-clark/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=A.I&theme=github_dark" />  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=danny-clark&repo=Robotics&theme=github_dark" /> 
-
-
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/danny-clark/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danny-clark&show_icons=true&theme=github_dark&hide_title=true&layout=compact" width="49%" />
 </a>
 
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/danny-clark/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny-clark&layout=compact&show_icons=true&theme=github_dark" width="50%" />
 </a>
 
 ---
